@@ -22,4 +22,4 @@ example:
 >`If applcation requires authentication then mention the valid account details`
 
 ## Other details
->`Add any other details asked in challegne specifications`
+>`Add any other details asked in challenge specifications`
