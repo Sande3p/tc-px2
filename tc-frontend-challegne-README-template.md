@@ -4,7 +4,7 @@
 >`Specify the prerequisites for running the application`
 
 ## Deploying the application
->`Specify the steps to deploy the application`>
+>`Specify the steps to deploy the application`
 
 ## Running, linting and/or testing the application
 >`Specify the steps to run, lint and/or test the application`
