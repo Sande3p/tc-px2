@@ -5,6 +5,8 @@
 ![image](https://user-images.githubusercontent.com/3652329/169231729-54a70493-3543-4c69-8606-90dae40dece6.png)
 
 
+### Kanban dashbaord
+- https://topcoder.kanbanize.com/ctrl_board/2
 
 ### Pre-requisites 
 Developers should get the invitation to join the project.
